@@ -1,0 +1,2 @@
+Its a bar file.
+Its another line in bar!
